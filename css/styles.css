@@ -1,14 +1,14 @@
 .column1 {
   box-sizing: border-box;
   float:left;
-  width: 50%;
-  border: 1px solid black;
+  width: 200px;
+  
   padding: 10px;
   }
 
 .column2 {
   box-sizing: border-box;
-  float:right;
-  width: 50%;
+  float:left;
+  width: 200px;
   padding: 10px;
 }
